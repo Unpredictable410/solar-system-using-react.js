@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // Import your pages/components (Create these files next!)
-import { Header } from './components/Header';
 import { Home } from './pages/Home';
 import { Evolution } from './pages/Evolution';
 
